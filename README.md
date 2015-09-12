@@ -1,6 +1,6 @@
 # Introduction
 
-Working Flash Client files for Gesior 2012.    
+Working 10.78 Flash Client files for Gesior 2012.    
 Currently un-documented, but should be easy enough to get running for any savvy OT developer.
 
 # Setup
