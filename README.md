@@ -16,4 +16,4 @@ You should now be able to login to your server through your Gesior 2012 based we
 # Disclaimer
 
 This is a proof-of-concept and won't be actively updated by myself.    
-If you support the idea, generate interest for the flash client to be officially supported by the TFS team.
+If you support the idea, generate interest for the [flash client to be officially supported](https://github.com/otland/forgottenserver/issues/1570) by the TFS team.
